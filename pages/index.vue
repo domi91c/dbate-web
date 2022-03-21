@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout name="default">
-    <h1>hello world</h1>
+    <h1>this is the index page</h1>
   </NuxtLayout>
 </template>
 
