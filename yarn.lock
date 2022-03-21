@@ -503,12 +503,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/vue@npm:1.4.3":
-  version: 1.4.3
-  resolution: "@headlessui/vue@npm:1.4.3"
+"@headlessui/vue@npm:insiders":
+  version: 0.0.0-insiders.4f8c615
+  resolution: "@headlessui/vue@npm:0.0.0-insiders.4f8c615"
   peerDependencies:
-    vue: ^3.0.0
-  checksum: 3b0991260adecaee43197ae6c0e212e01448c21eeff3bd1d5e009967113c348efc429dcda6afe3beb054bac58612b4e0593d3f1cd2fdf1db645a8cd9772c0c02
+    vue: ^3.2.0
+  checksum: 0ef346f8d918acabc61004b4771d4d26ae85b503caee15a989be9475f106b0396a37e3f3d05eb74bacf652fe8c62b491394ba338c2177e0a8d619f8e434d2396
   languageName: node
   linkType: hard
 
@@ -6372,7 +6372,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@headlessui/vue": 1.4.3
+    "@headlessui/vue": insiders
     "@heroicons/vue": 1.0.6
     "@pinia/nuxt": 0.1.8
     "@tailwindcss/aspect-ratio": 0.4.0

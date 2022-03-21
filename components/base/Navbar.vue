@@ -109,7 +109,7 @@ import {Disclosure, DisclosureButton, DisclosurePanel, Menu, MenuButton, MenuIte
 import {BellIcon, MenuIcon, XIcon} from '@heroicons/vue/outline'
 
 const navigation = [
-  {name: 'Live Debates', href: '#', current: true},
+  {name: 'Debates', href: '#', current: true},
   {name: 'Team', href: '#', current: false},
   {name: 'Calendar', href: '#', current: false},
 ]

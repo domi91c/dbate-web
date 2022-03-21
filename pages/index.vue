@@ -1,8 +1,6 @@
 <template>
-  <NuxtLayout name="default">
-    <h1>this is the index page</h1>
-  </NuxtLayout>
+  <h1>Go to /home</h1>
 </template>
 
-<script setup lang="ts">
+<script lang="ts">
 </script>
